@@ -14,18 +14,19 @@ nav_order: 0
 
 ## Team members
 
-### [Jane Dane]
+### [Funda Asli Aydemir]
 
-About
-: Some info about Jane
+
+Aufgabe
+: Some
 
 Matr.-Nr.
 : 1234567
 
-### [Joe Doe]
+### [Aybüke Yigit]
 
-About
-: Some info about Joe
+Aufgabe 
+: Some 
 
 Matr.-Nr.
 : 1234567
