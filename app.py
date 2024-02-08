@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for
 from flask_wtf import FlaskForm
 from wtforms import StringField
-from wtforms.fields import DateField  # Änderung des Imports für DateField
+from wtforms.fields.html5 import DateField
 from wtforms.validators import InputRequired
 import os
 from werkzeug.utils import secure_filename

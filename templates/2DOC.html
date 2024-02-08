@@ -1,0 +1,49 @@
+<!-- 2DOC.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2DOC</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        /* CSS-Styling hier hinzufügen */
+    </style>
+</head>
+<body>
+    <h1>2DOC - Dokumente verwalten</h1>
+
+    <!-- Dokumente hochladen -->
+    <h2>Dokumente hochladen</h2>
+    <form action="/2DOC" method="POST" enctype="multipart/form-data">
+        <input type="file" name="document" accept=".pdf,.doc,.docx,.txt">
+        <button type="submit">Hochladen</button>
+    </form>
+
+    <!-- Dokumente anzeigen -->
+    <h2>Gespeicherte Dokumente</h2>
+    <ul>
+        {% for document in documents %}
+            <li><a href="{{ url_for('view_document', filename=document.filename) }}">{{ document.filename }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <!-- Notizen erstellen -->
+    <h2>Notizen erstellen</h2>
+    <form action="/2DOC" method="POST">
+        <textarea name="note" rows="4" cols="50"></textarea>
+        <button type="submit">Notiz speichern</button>
+    </form>
+
+    <!-- Gespeicherte Notizen anzeigen -->
+    <h2>Gespeicherte Notizen</h2>
+    <ul>
+        {% for note in notes %}
+            <li>{{ note }}</li>
+        {% endfor %}
+    </ul>
+        </div>
+    <!-- Back-Button -->
+    <button class="back-btn" onclick="location.href='{{ url_for('home') }}'">Back 2Home</button>
+</body>
+</html>
