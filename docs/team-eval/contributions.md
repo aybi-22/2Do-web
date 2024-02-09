@@ -3,9 +3,13 @@ title: Contributions
 parent: Team Evaluation
 nav_order: 4
 ---
+### Aybüke Yigit 
+### Funda Aydemir 
+
+
 
 {: .label }
-[Aybüke Yigit]
+### Aybüke Yigit
 
 Contributions
 :Ablaufdiagramm  
@@ -22,7 +26,7 @@ Contributions
 
 
 {: .label }
-[Funda Aydemir]
+### Funda Aydemir
 
 Contributions
 :Ablaufdiagramm 
