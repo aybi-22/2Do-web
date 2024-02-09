@@ -8,13 +8,13 @@ nav_order: 0
 >
 > You may delete this `attention` box.
 
-# [2Do ]
+# 2Do 
 
-[Project description]
+In einer digital vernetzten Welt, geprägt von Informationsflut und Zeitdruck, präsentiert sich "2DO" als verlässlicher Begleiter für Schüler, Studenten und Berufstätige. Diese Plattform, entwickelt auf akademischen Grundlagen und modernsten Technologien, bietet eine elegante Lösung zur effizienten Organisation von Aufgaben, Notizen, Dokumenten und Terminen. Ihr intuitives Design und ihre vielseitigen Funktionen machen "2DO" zu einem unverzichtbaren Werkzeug für die Strukturierung des täglichen Lebens und die Steigerung der Produktivität.
 
 ## Team members
 
-### [Funda Asli Aydemir]
+### Funda Asli Aydemir
 
 
 Aufgabe
@@ -23,7 +23,7 @@ Aufgabe
 Matr.-Nr.
 : 1234567
 
-### [Aybüke Yigit]
+### Aybüke Yigit
 
 Aufgabe 
 : Some 
