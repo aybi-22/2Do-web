@@ -19,19 +19,21 @@ nav_order: 1
 
 In einer Welt, in der Schüler, Studenten und Berufstätige mit einem ständigen Strom von Aufgaben, Notizen und Terminen jonglieren, stellt sich häufig das Problem der effektiven Organisation und Strukturierung ihres Alltags. Der Mangel an einem geeigneten Werkzeug kann zu Verwirrung, verpassten Fristen und einem Gefühl der Überlastung führen.
 
-
 ## Our solution
 
 2DO bietet eine Lösung für diese Herausforderungen durch eine umfassende Webanwendung, die es Benutzern ermöglicht, ihre täglichen Verpflichtungen besser zu verwalten. Durch die Bereitstellung einer integrierten Plattform, auf der Aufgabenlisten erstellt, Notizen festgehalten, Dokumente archiviert und Termine geplant werden können, schafft 2DO eine effiziente und benutzerfreundliche Umgebung zur Strukturierung des Lebens und zur Reduzierung des Stressniveaus.
 
 
+
 ## Target user
 
 Unsere Zielgruppe umfasst Schüler, Studenten und Personen in verschiedenen Phasen ihres Bildungs- und Berufslebens, die ein hohes Maß an Organisation und Struktur in ihrem Alltag anstreben. Dies schließt ein:
-Schülerinnen und Schüler, die ihre schulischen Aufgaben, extracurricularen Aktivitäten und persönlichen Verpflichtungen koordinieren müssen.
-Studenten, die den Anforderungen des Studiums, Praktika und sozialen Engagements gerecht werden müssen.
-Berufstätige, die Arbeitsprojekte, Meetings und persönliche Zeit effektiv verwalten müssen, um einen ausgewogenen Lebensstil zu erhalten.
 
+Schülerinnen und Schüler, die ihre schulischen Aufgaben, extracurricularen Aktivitäten und persönlichen Verpflichtungen koordinieren müssen.
+
+Studenten, die den Anforderungen des Studiums, Praktika und sozialen Engagements gerecht werden müssen.
+
+Berufstätige, die Arbeitsprojekte, Meetings und persönliche Zeit effektiv verwalten müssen, um einen ausgewogenen Lebensstil zu erhalten.
 
 ## Customer journey
 
