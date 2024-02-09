@@ -1,3 +1,5 @@
+2Do ist eine einfache, benutzerfreundliche App, die entwickelt wurde, um Ihnen dabei zu helfen, Ihre Aufgaben effizient zu organisieren und Ihre Produktivität zu steigern. Mit 2Do können Sie mühelos Ihre täglichen, wöchentlichen oder monatlichen Aufgaben verwalten. Die App bietet eine intuitive Benutzeroberfläche, mit der Sie Aufgaben hinzufügen, bearbeiten und löschen können. Darüber hinaus können Sie Dateien hochladen und mit Ihren Aufgaben verknüpfen, um wichtige Dokumente, Notizen oder andere Materialien zu speichern. 
+
 # Schritte zum Ausführen der Anwendung
 
 Um die Anwendung auszuführen, müssen folgende Schritte befolgt werden:
