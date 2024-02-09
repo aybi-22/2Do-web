@@ -3,10 +3,9 @@ title: Goals
 parent: Team Evaluation
 nav_order: 1
 ---
-{: .label }
-Aybüke Yigit 
-{: .label }
-Funda Aydemir 
+
+### Aybüke Yigit 
+### Funda Aydemir 
 
 
 {: .label }
@@ -32,4 +31,4 @@ Funda Aydemir
 
 {: .no_toc }
 
-</details>
+

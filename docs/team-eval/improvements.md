@@ -3,10 +3,8 @@ title: Improvements
 parent: Team Evaluation
 nav_order: 2
 ---
-{: .label }
-Aybüke Yigit 
-{: .label }
-Funda Aydemir 
+### Aybüke Yigit 
+### Funda Aydemir 
 
 {: .label }
 ### Persöhnliche Erfahrung: Funda Aydemir
@@ -47,5 +45,3 @@ Unsere Selbstkritik hat uns zu Fehlern motiviert und wir konnten uns nicht vollk
 Im Endeffekt hat unsere Selbstkritik uns zum "aufgeben und neustart" Prozess geführt was wir definitiv für die Zukunft vermeiden werden. 
 {: .no_toc }
 
-
-</details>
