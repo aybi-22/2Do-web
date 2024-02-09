@@ -17,8 +17,8 @@ Ordentlich und strukturiertes Arbeiten in Bezug auf Zeit und Code ist definitiv 
 Teamwork ist auch etwas was trainiert werden muss!
 Die zusammenarbeit mit anderen darf nicht unterschätzt werden und man muss sich an- und abpassen können, schlißlich ist das Team der Schlüssel zum Erfolg. 
 
-{: .label }
-[How we would improve next time]
+
+How we would improve next time
 ### Zeitmanagment 
 
 Wir sollten unsere Prioritäten besser setzten und mit der Zeit kostbarer umgeben. 

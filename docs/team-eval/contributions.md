@@ -39,5 +39,6 @@ Contributions
 :2DO.html  
 :2DATE.html  
 
-Wir haben die meiste Zeit als Team gearbeitet und uns gegenseitig bei den Aufgaben unterstützt, sodass eine eindeutige Abgrenzung der Aufgabenverteilung nicht möglich ist. 
-Je nach "stärke" der Person wurde mehr "Arbeit" übernommen. 
+**/Wir haben die meiste Zeit als Team gearbeitet und uns**
+**gegenseitig bei den Aufgaben unterstützt, sodass eine eindeutige **Abgrenzung der Aufgabenverteilung nicht möglich ist.** 
+**Je nach "stärke" der Person wurde mehr "Arbeit" übernommen.**

@@ -3,10 +3,10 @@ title: User Evaluation
 nav_order: 4
 ---
 
-{: .label }
-[Jane Dane]
+### Aybüke Yigit
+### Funda Aydemir 
 
-# [User evaluation]
+# User evaluation
 {: .no_toc }
 
 <details open markdown="block">
@@ -16,7 +16,7 @@ nav_order: 4
 {: toc }
 </details>
 
-## 01: [Title]
+
 
 ### Meta
 
@@ -24,7 +24,7 @@ Status
 : **Work in progress** 
 
 Updated
-: DD-MMM-YYYY
+: 09-Feb-202
 
 ### Goal
 
@@ -55,6 +55,6 @@ Die durchschnittliche Zeit, die für das Hinzufügen einer neuen Aufgabe benöti
 
 Basierend auf den Ergebnissen dieser Evaluation planen wir, das Interface-Design der 2Do-Webanwendung zu überarbeiten, um die Benutzerfreundlichkeit zu verbessern und mögliche Unklarheiten zu beseitigen. Dazu gehören Änderungen an der Benutzeroberfläche für das Bearbeiten von Aufgaben und die Hinzufügung von Hilfestellungen, um die Navigation durch die Anwendung zu erleichtern. Nach den Änderungen werden wir eine erneute Evaluation durchführen, um die Auswirkungen der Verbesserungen zu messen und sicherzustellen, dass die Benutzererfahrung optimiert wurde.
 
-Wir streben an, das Programm kontinuierlich zu verbessern, um sicherzustellen, dass es den Anforderungen und Erwartungen der Benutzer in vollem Umfang gerecht wird. Obwohl es noch nicht zur Abgabe bereit ist, befindet es sich daher derzeit noch im Entwicklungsprozess.
+Wir streben an, das Programm kontinuierlich zu verbessern, um sicherzustellen, dass es den Anforderungen und Erwartungen der Benutzer in vollem Umfang gerecht wird. Obwohl es unserer Meinung nach noch nicht vollständig vollendet ist, befindet es sich daher derzeit noch im Entwicklungsprozess.
 
 ---
