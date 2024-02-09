@@ -9,12 +9,7 @@ nav_order: 4
 # Reference documentation
 {: .no_toc }
 
-{: .attention }
-> This page collects internal functions, routes with their functions, and APIs (if any).
-> 
-> See [Uber](https://developer.uber.com/docs/drivers/references/api) or [PayPal](https://developer.paypal.com/api/rest/) for exemplary high-quality API reference documentation.
->
-> You may delete this `attention` box.
+
 
 <details open markdown="block">
 {: .text-delta }
@@ -23,62 +18,71 @@ nav_order: 4
 {: toc }
 </details>
 
-## [Section / module]
+## Funktionen zur Verwaltung von Aufgaben (To-Do-Listen)
 
 ### `function_definition()`
 
-**Route:** `/route/`
+**Route:** `/2DO/`
 
-**Methods:** `POST` `GET` `PATCH` `PUT` `DELETE`
+**Methods:** `/POST GET/`
 
-**Purpose:** [Short explanation of what the function does and why]
+**Purpose:** Ermöglicht Benutzern das Hinzufügen und Anzeigen von Aufgaben in ihrer To-Do-Liste.
+
+**Route:** /delete_task/int:index
+
+**Methods:** ` /GET/`
+
+**Purpose:** Löscht eine Aufgabe aus der To-Do-Liste anhand ihres Index.
+
 
 **Sample output:**
 
-[Show an image, string output, or similar illustration -- or write NONE if function generates no output]
+![2DO](../assets/images/2DO.png)
+
 
 ---
 
-## [Example, delete this section] Show to-do lists
+## Funktionen zur Verwaltung von Ereignissen (Kalender)
 
-### `get_lists()`
+**Route:** ` /2DATE/`
 
-**Route:** `/lists/`
+**Methods:** `POST GET`
 
-**Methods:** `GET`
+**Purpose:** Ermöglicht Benutzern das Hinzufügen und Anzeigen von Ereignissen in ihrem Kalender.
 
-**Purpose:** Show all to-do lists.
+**Route:**  /view_document/<filename>
+
+**Methods:** GET
+
+**Purpose:** Zeigt das hochgeladene Dokument mit dem angegebenen Dateinamen an.
 
 **Sample output:**
 
-![get_lists() sample](../assets/images/fswd-intro_00.png)
+![2DATE](../assets/images/2DATE.png)
+![2DATE2](../assets/images/2DATE2.png)
 
 ---
 
-### `get_list_todos(list_id)`
+### Funktionen zur Verwaltung von Dokumenten und Notizen
 
-**Route:** `/lists/<int:list_id>`
+**Route:** `/2DOC/` 
 
-**Methods:** `GET`
+**Methods:** POST GET
 
-**Purpose:** Retrieve all to-do items of to-do list with ID `list_id` from database and present to user.
+**Purpose:** Ermöglicht Benutzern das Hochladen von Dokumenten und das Hinzufügen von Notizen.
+
+
+**Route:** /view_document/<filename>
+
+**Methods:** GET
+
+**Purpose:** Zeigt das hochgeladene Dokument mit dem angegebenen Dateinamen an.
+
+
 
 **Sample output:**
 
-![get_list_todos() sample](../assets/images/fswd-intro_02.png)
+![2DOC](../assets/images/2DOC.png)
 
 ---
 
-## [Example, delete this section] Insert sample data
-
-### `run_insert_sample()`
-
-**Route:** `/insert/sample`
-
-**Methods:** `GET`
-
-**Purpose:** Flush the database and insert sample data set
-
-**Sample output:**
-
-Browser shows: `Database flushed and populated with some sample data.`
