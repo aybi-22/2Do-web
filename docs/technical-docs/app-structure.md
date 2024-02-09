@@ -4,8 +4,8 @@ parent: Technical Docs
 nav_order: 1
 ---
 
-{: .label }
-[Jane Dane]
+### Aybüke Yigit
+### Funda Aydemir 
 
 ### App Strcture:
 
