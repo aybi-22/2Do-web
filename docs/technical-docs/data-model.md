@@ -19,4 +19,3 @@ Die wichtigsten Funktionen und Methoden in "2DO" sind:
 **Aufgabe löschen**: Die Funktion delete_task(index) in der Route "/delete_task/int:index" erlaubt Benutzern, eine Aufgabe aus der Liste zu löschen, indem sie den entsprechenden "Löschen"-Button neben der Aufgabe anklicken.
 
 **Aufgabenliste anzeigen**: Die Aufgabenliste wird dynamisch auf der "2DO"-Seite aktualisiert, um die aktuellen Aufgaben und ihren Status anzuzeigen.
-{: .no_toc }
