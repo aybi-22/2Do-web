@@ -1,7 +1,7 @@
 
         body {
             font-family: Arial, sans-serif;
-            background: linear-gradient(to bottom, #f5f5dc, #ffc0cb); /* Hellbraun zu Hellpink */
+            background: linear-gradient(to bottom, #f5f5dc, #c6c0f3); /* Hellbraun zu Hellpink */
             margin: 0;
             padding: 20px;
         }
@@ -9,7 +9,7 @@
         .container {
             max-width: 600px;
             margin: 0 auto;
-            background: #fff;
+            background: #ffffff00;
             padding: 20px;
             border-radius: 5px;
         }
@@ -59,7 +59,7 @@
         }
 
         .delete-btn {
-            background-color: #f44336;
+            background-color: #b16963;
             padding: 5px 10px;
             color: #fff;
             border: none;
