@@ -3,6 +3,11 @@ title: Goals
 parent: Team Evaluation
 nav_order: 1
 ---
+{: .label }
+Aybüke Yigit 
+{: .label }
+Funda Aydemir 
+
 
 {: .label }
 [Erreichte Ziele]

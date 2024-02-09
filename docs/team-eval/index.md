@@ -5,6 +5,8 @@ nav_order: 5
 ---
 
 {: .label }
-[Jane Dane]
+Aybüke Yigit 
+{: .label }
+Funda Aydemir 
 
-# [Team evaluation]
+Team evaluation - 2Do 

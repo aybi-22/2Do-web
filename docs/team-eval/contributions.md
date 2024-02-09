@@ -3,6 +3,12 @@ title: Contributions
 parent: Team Evaluation
 nav_order: 4
 ---
+{: .label }
+Aybüke Yigit 
+{: .label }
+Funda Aydemir 
+
+
 
 {: .label }
 [Aybüke Yigit]
