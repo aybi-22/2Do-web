@@ -39,6 +39,7 @@ nav_order: 4
 
 ![2DO](../assets/images/2DO.png)
 
+
 ---
 
 ## Funktionen zur Verwaltung von Ereignissen (Kalender)
