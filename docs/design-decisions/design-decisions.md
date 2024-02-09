@@ -44,6 +44,7 @@ Raw SQLAlchemy: Wir könnten Raw SQLAlchemy für die Datenbankintegration verwen
 
 
 Flask-SQLAlchemy: Flask-SQLAlchemy ist eine Flask-Erweiterung, die eine einfache Integration mit SQLAlchemy bietet und es ermöglicht, Datenbankmodelle zu definieren und Datenbankabfragen mit minimalem Setup und Konfiguration auszuführen.
+
 ---
 
 
@@ -75,6 +76,7 @@ Flask: Flask ist ein Microframework für Python, das eine einfache und modulare 
 
 
 Django: Django ist ein Full-Stack-Webframework für Python, das eine umfassende Sammlung von Tools und Funktionen bietet, was es gut für komplexe Webanwendungen macht. Allerdings kann Django für kleinere Projekte überdimensioniert sein und eine steilere Lernkurve haben als Flask.
+
 ---
 
 
@@ -104,6 +106,7 @@ Werkzeug: Werkzeug ist das Standard-WSGI-Toolkit für Flask und bietet grundlege
 
 
 WSGIRef: WSGIRef ist eine Referenzimplementierung des WSGI-Standards für Python und bietet eine grundlegende Infrastruktur für die Entwicklung von WSGI-Anwendungen. Allerdings ist es weniger benutzerfreundlich als Werkzeug und erfordert mehr manuelle Konfiguration.
+
 ---
 
 
