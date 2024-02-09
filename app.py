@@ -7,9 +7,6 @@ from wtforms.fields.html5 import DateField
 from wtforms.validators import InputRequired
 from werkzeug.utils import secure_filename
 import os
-from flask import Flask, render_template, request, redirect, url_for, session, send_from_directory
-from werkzeug.utils import secure_filename
-import os
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'ein_sehr_starker_und_geheimer_schlüssel'
