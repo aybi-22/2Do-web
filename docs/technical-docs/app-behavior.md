@@ -9,7 +9,9 @@ nav_order: 2
 
 ### App Behavior
 
-Das Verhalten der "2DO"-App ist darauf ausgerichtet, den Benutzern eine nahtlose und intuitive Benutzererfahrung zu bieten. Hier sind einige wichtige Aspekte des App-Verhaltens:
+Das Verhalten der "2DO"-App ist darauf ausgerichtet, den Benutzern eine nahtlose und intuitive Benutzererfahrung zu bieten.
+
+ Hier sind einige wichtige Aspekte des App-Verhaltens:
 
 
 **Benutzeranmeldung und -registrierung**: Benutzer können sich einfach registrieren und anmelden, um ihre persönlichen Aufgabenlisten zu verwalten. Nach der Anmeldung können Benutzer neue Aufgaben hinzufügen, bestehende Aufgaben bearbeiten und ihre Aufgabenliste anzeigen.
