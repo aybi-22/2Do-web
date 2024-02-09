@@ -134,6 +134,8 @@ def doc():
             return redirect(url_for('doc'))
     return render_template('2DOC.html', documents=documents, notes=notes)
 
+
+
 @app.route('/view_document/<filename>')
 def view_document(filename):
     return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
