@@ -5,9 +5,19 @@ nav_order: 4
 ---
 
 {: .label }
-[Jane Dane]
+[Aybüke Yigit]
 
-# [Summary of individual contributions]
+Contributions
+:Ablaufdiagramm
+:GitHub einrichtung
+:Docs Ordner übertragen
+:Frontend-CSS
+:Dokumentations und Fehlerbehebungsaufgaben
+:index.html
+:home.html
+:2DOC.html und 2DATE.html
+:Datenbankaufgaben
+:app.py
 {: .no_toc }
 
 <details open markdown="block">
@@ -17,16 +27,16 @@ nav_order: 4
 {: toc }
 </details>
 
-## [Jane Dane]
+[Funda Aydemir]
 
 Contributions
-: Jane's first contribution
-: Jane's second contribution
-: ...
+:Ablaufdiagramm
+:Frontend-CSS
+:Dokumentations und Fehlerbehebungsaufgaben
+:index.html
+:Datenbank initialisierung 
+:register.html, login.html
+:app.py und model.py
+:2DO.html
+:2DATE.html
 
-## [Joe Doe]
-
-Contributions
-: Joe's first contribution
-: Joe's second contribution
-: ...
