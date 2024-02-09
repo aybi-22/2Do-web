@@ -13,7 +13,7 @@ Peer review
 {: .no_toc }
 </details>
 
-Aybüke - review 1
+### Aybüke - review 1
 
 My observation (Wahrnehmung)
 
@@ -32,7 +32,7 @@ Ich werde mich auch weiterhin mit meiner Partnerin an dieses Projekt widmen um e
 Doch für die Zukunft wünsche ich mir einen erhöten Lernprozess insbesondere für die ganzen Tools und das ich früher anfange und mich nicht von anderen Prüfungen ablenke. 
 
 
-Funda - review 1
+### Funda - review 1
 
 My observation (Wahrnehmung)
 

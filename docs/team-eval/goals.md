@@ -10,7 +10,7 @@ Funda Aydemir
 
 
 {: .label }
-[Erreichte Ziele]
+### Erreichte Ziele
 1. Alle Routen der implementieren Funktionieren und die Frames sind so miteinander verbunden wie es sein soll.
 
 2. Registrierungsdaten werden in der Datenbank so gespeichert, dass sie beim Logi erfolgreich abgerufen werden.
@@ -22,7 +22,7 @@ Funda Aydemir
 5. Nutzer können Events/Deadlines mit Datum und Beschreibung abspeichern (2Date).
 
 {: .label }
-[Nicht erreichte Ziele]
+### Nicht erreichte Ziele
 
 1. Das Frontend entspricht nicht unseren UI Anforderungen.
 
