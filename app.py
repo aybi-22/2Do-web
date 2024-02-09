@@ -2,8 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for, send_from_
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_wtf import FlaskForm
-from wtforms import StringField
-from wtforms.fields.html5 import DateField
+from wtforms import StringField, DateField
 from wtforms.validators import InputRequired
 from werkzeug.utils import secure_filename
 import os
@@ -13,6 +12,8 @@ app.config['SECRET_KEY'] = 'ein_sehr_starker_und_geheimer_schlüssel'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///meine_projektdatenbank.db'
 app.config['UPLOAD_FOLDER'] = 'uploads'
 db = SQLAlchemy(app)
+
+from models import User
 
 # Benutzermodell
 class User(db.Model):
@@ -147,4 +148,5 @@ def back():
     return redirect(referrer)
 
 if __name__ == '__main__':
+    db.create_all()
     app.run(debug=True)
